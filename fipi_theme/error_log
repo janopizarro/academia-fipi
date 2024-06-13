@@ -1,0 +1,1 @@
+[11-Oct-2017 03:10:51 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/fipi/public_html/nuevo/wp-content/themes/fipi_theme/index.php on line 1

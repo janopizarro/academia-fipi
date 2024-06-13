@@ -1,0 +1,204 @@
+/* ThemeREX Donations styles
+----------------------------------------------------------------- */
+
+.post-type-archive-donation .page-header,
+.tax-donation_category .page-header {
+	display: none;
+}
+.post_type_donation .post_featured {
+	margin-bottom: 0;
+}
+.post_type_donation .post_body {
+	padding: 3.2rem 4.2rem 4.3rem;
+}
+.post_type_donation .post_info_item.post_date {
+	font-size: 1.786em;
+	font-weight: 400;
+}
+.post_type_donation .post_info_item.post_goal,
+.post_type_donation .post_info_item.post_raised {
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 900;
+}
+.post_type_donation .post_meta .post_categories {
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 900;
+}
+.post_type_donation .post_meta .post_categories a {
+	padding: 3px 14px 2px;
+	-webkit-border-radius: 2em;
+	-moz-border-radius: 2em;
+	border-radius: 2em;
+	display: inline-block;
+	letter-spacing: 0.5px;
+}
+.post_type_donation .entry-title {
+	margin: 0.9em 0 0.45em;
+	font-size: 2.188em;
+	line-height:1.2;
+}
+.post_type_donation .post_info_item+.post_info_item:before {
+	font-weight: normal;
+	margin-left: 0.5em;
+	margin-right: 0.5em;
+}
+.post_type_donation .post_header {
+	margin-bottom: 1.7em;
+}
+.post_type_donation .more-link {
+	margin-top: 1.55em;
+}
+.post_type_donation.post_item_single .post_sidebar {
+	width: 48.8%;
+	padding: 0 4.4rem 4rem;
+	margin-top: 0.55em;
+}
+.post_type_donation.post_item_single .post_featured {
+	margin-right: -4.4rem;
+	margin-left: -4.4rem;
+	margin-bottom: 4.2rem;
+}
+.post_type_donation.post_item_single .post_body {
+	padding: 0 0.5em;
+	width: 49.2%;
+	background: transparent!important;
+}
+.post_type_donation.post_item_single .post_info {
+	margin: -2px 0 0;
+}
+.post_type_donation.post_item_single .post_info_item.post_date {
+	font-size: 1.563em;
+}
+.post_type_donation.post_item_single .post_header .entry-title {
+	margin-top: 0;
+}
+.post_type_donation.post_item_single .post_header {
+	margin-bottom: 1.95em;
+}
+.post_type_donation .sc_donations_form {
+	margin: 0;
+}
+.sc_donations_form_label {
+	display: none;
+}
+.sc_donations_form_field_amount .sc_donations_form_label:first-child {
+	display: block;
+	font-size: 14px;
+	text-transform: uppercase;
+	font-weight: 900;
+	margin-bottom: 1em;
+}
+.sc_donations_form_amount_label {
+	margin-bottom: 0.7em;
+}
+input[type="text"].sc_donations_form_amount {
+	height: 2.75em;
+	padding: 0.5em 1.3em;
+	max-width: 7em;
+	box-sizing: border-box;
+}
+.sc_donations_form_field {
+	margin-bottom: 1.15em;
+}
+.sc_donations_form_field.sc_donations_form_field_amount {
+	margin-bottom: 1.7em;
+	max-width: 100%;
+}
+.sc_donations_form_field textarea {
+	min-height: 10.3em;
+}
+.sc_donations_form_field.sc_donations_form_field_rating {
+	margin-top: 2em;
+	margin-bottom: 1.2em;
+}
+.sc_donations_form_field.sc_donations_form_field_note {
+	padding: 1.6em 0.8em 1.6em 4.7em;
+	border: 0;
+	position: relative;
+	max-width: 100%;
+	font-size: 1.063em;
+	font-weight: 400;
+	line-height: 1.36;
+	letter-spacing: -0.5px;
+}
+.sc_donations_form_field_note:before {
+	font-size: 1.8em;
+	top: 1em;
+	left: 0.8em;
+}
+.sc_donations_form_field.sc_donations_form_field_button {
+	margin-top: 2.5em;
+	margin-bottom: 2.05em;
+}
+.sc_donations_form_rating_label {
+	margin-left: 0;
+}
+.post_type_donation.post_item_single .post_footer {
+	padding: 0.4em 1.2em;
+	border: 0;
+	margin-top: 2.3em;
+}
+.post_type_donation.post_item_single .sc_socials_share_item {
+	font-size: 15px;
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	display: inline-block;
+}
+.post_type_donation.post_item_single .sc_socials_share_item + .sc_socials_share_item {
+	margin-left: 5px;
+}
+.post_type_donation .sc_socials_share {
+	margin-right: 0;
+}
+.post_type_donation .post_footer .post_categories {
+	margin-top: 0.8em;
+}
+.post_type_donation.post_item_single .post_footer {
+	padding: 0.4em 1.2em 0.4em 2em;
+}
+.post_type_donation.post_item_single .post_sidebar .post_raised_title {
+	font-size: 14px;
+	font-weight: 900;
+	display: inline-block;
+	-webkit-border-radius: 2em;
+	-moz-border-radius: 2em;
+	border-radius: 2em;
+	padding: 0.9em 2.4em 0.9em;
+	margin-top: -0.3em;
+	letter-spacing: -0.1px;
+}
+.post_type_donation.post_item_single .post_sidebar .post_raised .post_raised_amount {
+	display: inline-block;
+	background: transparent!important;
+	margin: 0;
+	padding: 0;
+}
+.post_type_donation.post_item_single .post_sidebar .post_goal_title {
+	font-size: 14px;
+	font-weight: 900;
+}
+.post_type_donation.post_item_single .post_sidebar .post_help {
+	font-size: 14px;
+	font-weight: 900;
+	text-align: left;
+	font-style: normal;
+	text-transform: uppercase;
+	margin-top: 0.7em;
+}
+.post_type_donation.post_item_single .post_sidebar .post_supporters {
+	margin-top: 2.15em;
+	padding-top: 2.25em;
+}
+.post_supporters_title {
+	font-size: 1.875em;
+	margin-top: 0;
+	margin-bottom: 0.5em;
+	line-height: 1.2;
+}

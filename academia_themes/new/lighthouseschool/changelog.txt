@@ -1,0 +1,135 @@
+Version 1.2.8
+	Added:
+		- WP 6.2.2 compatibility
+
+	Fixed:
+		- Update plugins to their latest versions
+        	- Improve theme styles
+
+	Changed:
+		- Update demo data
+
+    	Removed:
+        	- ThemeREX Socials
+
+Version 1.2.7
+	Fixed:
+		- Import Essential Grid 3.0.17+ plugin
+
+Version 1.2.6
+	Added:
+		- WP 6.0.3 compatibility
+
+	Fixed:
+		- Update plugins to their latest versions
+        - Improve theme styles
+
+	Changed:
+		- Update demo data
+
+Version 1.2.5 
+	Added:
+		- WP 6.0 compatibility
+        - Smash Balloon Instagram Feed plugin
+
+	Fixed:
+		- Update plugins to their latest versions
+        - Improve theme styles
+
+	Changed:
+		- Update demo data
+
+
+Version 1.2.4
+	Added:
+		- WP 5.9 compatibility
+		- PHP 8 compatibility
+
+	Fixed:
+		- Update plugins to their latest versions
+        - Improve theme styles
+
+	Changed:
+		- Update demo data
+
+Version 1.2.3
+	Added:
+		- WP 5.7.2 compatibility
+		- PHP 7.4 compatibility
+		- ThemeREX Socials plugin
+
+	Fixed:
+		- Update plugins to their latest versions
+
+	Changed:
+		- Update demo data
+
+
+Version 1.2.2
+    Added:
+        - GiveWP - Donation plugin
+        - elegro Crypto Payment plugin
+        - ThemeREX Updater plugin
+
+    Changed:
+        - WooCommerce 'Products per row' and 'Rows per page' settings moved to 'WooCommerce' Customizer section
+        - Update demo data
+
+    Fixed:
+        - Improve compatibility with WP 5.5.1
+        - Update plugins to their latest versions
+
+    Removed:
+        - TRX Donations plugin
+
+Version 1.2.1
+    Added:
+        - Contact Form 7 plugin
+    Changed:
+        - Replace default contact forms with Contact Form 7
+       -  Reassemble content without using Layouts
+        - Update demo data
+    Fixed:
+        - Update plugins to their latest versions
+        - Improve theme styles
+
+Version 1.2.0
+    Added:
+        - Cookie Information plugin
+        - Alert to Demo data installation
+        - Privacy Policy, Service Plus pages
+    Changed:
+        - Update default contact forms to make them GDPR-compliant
+        - Update demo data
+    Fixed:
+        - Compatibility with WP 5.0+
+        - Update plugins to their latest versions
+        - Improve theme styles
+        - Update TRX Addons & TRX Donation plugins
+    Removed:
+        - Support page, Video Tutorials page
+
+Version 1.1.1
+    WordPress Version 4.9.4 ready
+    Compatibility with PHP7.1.x
+    Updated WPBakery Page Builder Extensions All In One to its latest version
+    Updated Revolution Slider to its latest version
+    Updated WPBakery Page Builder to its latest version
+    Updated Essential Grid to its latest version
+    Updated ThemeREX Donations to its latest version
+    Updated Contact Form 7 to its latest version
+    Updated demo data
+    Fixed Contact Form 7 Datepicker
+    Fixed shortcode WPBakery Page Builder in PHP7.1.x
+    Fixed WooCommerce 3.3.x
+    Fixed Imports
+    Added new CSS styles
+
+Version 1.1
+    Added ThemeREX Donations plugin support.
+
+Version 1.0
+    Release
+
+
+

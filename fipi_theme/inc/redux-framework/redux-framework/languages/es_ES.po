@@ -1,0 +1,813 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Redux Framework\n"
+"Report-Msgid-Bugs-To: https://github."
+"com/ReduxFramework/ReduxFramework/issues\n"
+"POT-Creation-Date: 2015-04-02 04:45:17+00:00\n"
+"PO-Revision-Date: 2017-12-11 02:51+0000\n"
+"Last-Translator: fundacion <contacto@studiorios.cl>\n"
+"Language-Team: Spanish (Spain)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Textdomain-Support: yes"
+
+#, fuzzy
+msgid "Activate Demo Mode"
+msgstr "Activar Modo de Demostración"
+
+msgid "Activate Development Plugins"
+msgstr "Activar Plugins de Desarrollo"
+
+msgid "Active"
+msgstr "Activo"
+
+msgid "Active Plugins"
+msgstr "Plugins Activos"
+
+msgid "Add %s"
+msgstr "Añadir %s"
+
+msgid "Add More"
+msgstr "Añadir Más"
+
+msgid "Add/Edit Gallery"
+msgstr "Añadir/Editar Galería"
+
+msgid "All"
+msgstr "Todo"
+
+msgid "All Defaults Restored!"
+msgstr "Restaurados todos los valores predeterminados!"
+
+msgid "Allow tracking"
+msgstr "Permitir seguimiento"
+
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr "¿Está seguro? Al restablecer perderá todos los valores personalizados."
+
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+"¿Está seguro? Al restablecer perderá todos los valores personalizados de "
+"esta sección."
+
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr "¿Está seguro? Al restablecer perdera todos los valores personalizados."
+
+msgid "Author URL"
+msgstr "URL del Autor"
+
+msgid "Background Attachment"
+msgstr "Adjunto del fondo"
+
+msgid "Background Origin"
+msgstr "Origen del fondo"
+
+msgid "Background Position"
+msgstr "Posición del fondo"
+
+msgid "Background Repeat"
+msgstr "Repetición del fondo"
+
+msgid "Background Size"
+msgstr "Tamaño del fondo"
+
+msgid "Backup Font Family"
+msgstr "Copiad de seguridad de la Familia de Fuente"
+
+msgid "Border style"
+msgstr "Estilo del borde"
+
+msgid "Bottom"
+msgstr "Abajo"
+
+msgid "Browser"
+msgstr "Navegador"
+
+msgid "Browser Info"
+msgstr "Información del Navegador"
+
+msgid "Changelog"
+msgstr "Informe de cambios"
+
+msgid "Child Theme"
+msgstr "Child Theme"
+
+msgid "Clear Gallery"
+msgstr "Limpiar Galería"
+
+msgid "Click here to activate the sample config file."
+msgstr "Haga click aquí para activar el archivo de configuración de ejemplo."
+
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "Copied!"
+msgstr "¡Copiado!"
+
+msgid "Copy Data"
+msgstr "Copiar Datos"
+
+msgid "Copy Export URL"
+msgstr "Copiar URL de Exportación"
+
+msgid "Copy for Support"
+msgstr "Copiar para el Soporte"
+
+msgid "Credits"
+msgstr "Créditos"
+
+msgid "Database Table Prefix"
+msgstr "Prefijo de Tabla de la Base de Datos"
+
+msgid "Deactivate Demo Mode"
+msgstr "Desactivar Modo de Demostración"
+
+msgid "Deactivate Development Plugins"
+msgstr "Desactivar Plugins de Desarrollo"
+
+msgid "Default"
+msgstr "Predeterminado"
+
+msgid "Default Timezone is UTC"
+msgstr "La Zona Horaria por defecto es UTC"
+
+msgid "Default timezone is %s - it should be UTC"
+msgstr "La Zona Horaria por defecto es %s - Debería ser UTC"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Determines if PHP will display errors within the browser."
+msgstr "Determina si PHP puede mostrar errores en el navegador."
+
+msgid "Developer"
+msgstr "Desarrollador"
+
+msgid "Developer Mode Enabled"
+msgstr "Modo Desarrollador Habilitado"
+
+msgid "Disable"
+msgstr "Desactivar"
+
+msgid "Dismiss"
+msgstr "Descartar"
+
+msgid "Do not allow tracking"
+msgstr "No permitir seguimiento"
+
+msgid "Docs"
+msgstr "Documentos"
+
+msgid "Download Data File"
+msgstr "Descargar Archivo de Datos"
+
+msgid "Email address"
+msgstr "Dirección de email"
+
+msgid "Enable"
+msgstr "Activar"
+
+msgid "Error: %s"
+msgstr "Error: %s"
+
+msgid "Expand"
+msgstr "Expandir"
+
+msgid "Export Options"
+msgstr "Opciones de Exportación"
+
+msgid "Extensions"
+msgstr "Extensiones"
+
+msgid "Font Color"
+msgstr "Color de fuente"
+
+msgid "Font Family"
+msgstr "Familia de fuente"
+
+msgid "Font Size"
+msgstr "Tamaño de fuente"
+
+msgid "Font Subsets"
+msgstr "Subconjuntos de fuentes"
+
+msgid "Font Variant"
+msgstr "Variaciones de Fuente"
+
+msgid "Font Weight &amp; Style"
+msgstr "Peso y estilo de fuente"
+
+msgid "Font color"
+msgstr "Color de la fuente"
+
+msgid "Font family"
+msgstr "Familia de la fuente"
+
+msgid "Font script"
+msgstr "Fuentes script"
+
+msgid "Font style"
+msgstr "Estilo de la Fuente"
+
+msgid "Font subsets"
+msgstr "Subconjuntos de Fuente"
+
+msgid "From "
+msgstr "De"
+
+msgid "Front Page"
+msgstr "Página Principal"
+
+msgid ""
+"Generate\n"
+"                        a Support URL"
+msgstr ""
+"Generar\n"
+"URL de Soporte"
+
+msgid "Generate a Support URL"
+msgstr "Generar URL de Soporte"
+
+msgid "Get Support"
+msgstr "Obtener soporte"
+
+msgid "Get System Report"
+msgstr "Obtener Reporte del Sistema"
+
+msgid "Getting Started"
+msgstr "Comenzar"
+
+msgid "Google Webfonts"
+msgstr "Google Webfonts"
+
+msgid "Height"
+msgstr "Altura"
+
+msgid "Help improve Our Panel"
+msgstr "Ayudenos a mejorar Nuestro Panel"
+
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+"Aquí puede copiar / descargar sus ajustes de opciones. Mantenga esto seguro, "
+"ya que se puede utilizar como una copia de seguridad si algo va mal, o puede "
+"utilizarlo para restaurar la configuración en este sitio (o cualquier otro "
+"sitio)."
+
+msgid "Hints"
+msgstr "Consejos"
+
+msgid "Home URL"
+msgstr "URL de Inicio"
+
+msgid "Hover"
+msgstr "Sobre"
+
+msgid "How to Get Support"
+msgstr "Cómo obtener Soporte"
+
+msgid "I am a developer, building a product using Redux."
+msgstr "Soy un desarrollador, construyendo un producto usando Redux."
+
+msgid "I am a user, using a pre-built product."
+msgstr "Soy un usuario, usando un producto programado."
+
+msgid "Import"
+msgstr "Importar"
+
+msgid "Import / Export"
+msgstr "Importar / Exportar"
+
+msgid "Import Options"
+msgstr "Opciones de Importación"
+
+msgid "Import from File"
+msgstr "Importar desde archivo"
+
+msgid "Import from URL"
+msgstr "Importar desde URL"
+
+msgid "Information about the web server that is currently hosting your site."
+msgstr "Información sobre el servidor web en el que está alojado tu sitio."
+
+msgid "Information about web browser current in use."
+msgstr "Información del navegador web usado actualmente."
+
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+"Introduzca la URL del conjunto de opciones de otro sitio y pulse Importar "
+"para cargar las opciones de dicho sitio."
+
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+"Introduzca su archivo de copia de seguridad debajo y pulse Importar para "
+"restaurar las opciones del sitio desde una copia de seguridad."
+
+msgid "Is the server running in a localhost environment."
+msgstr "El servidor está funcionando en un entorno local."
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Learn More"
+msgstr "Saber Más"
+
+msgid "Left"
+msgstr "Izquierda"
+
+msgid "Letter Spacing"
+msgstr "Espacio entre letras"
+
+msgid "Like Redux?"
+msgstr "¿Te gusta Redux?"
+
+msgid "Line Height"
+msgstr "Alto de línea"
+
+msgid "Localhost Environment"
+msgstr "Entorno Localhost"
+
+msgid "Max Upload Size"
+msgstr "Max Upload Size"
+
+msgid "MySQL Version"
+msgstr "Versión MySQL"
+
+msgid "Name"
+msgstr "Nombre"
+
+msgid "New %s"
+msgstr "Nuevo %s"
+
+msgid "New in this Release"
+msgstr "Nuevo en esta versión"
+
+msgid "Newsletter"
+msgstr "Boletín informativo"
+
+msgid "No items of this type were found."
+msgstr "No se encontró ningún elemento de este tipo."
+
+msgid "No media selected"
+msgstr "Nada seleccionado"
+
+msgid "Off"
+msgstr "Apagado"
+
+msgid "On"
+msgstr "Encendido"
+
+msgid "Options"
+msgstr "Opciones"
+
+msgid "Options Object"
+msgstr "Objeto Opciones"
+
+msgid "Options panel created using %1$s"
+msgstr "Panel de opciones creado usando %1$s"
+
+msgid "PHP Display Errors"
+msgstr "Mostrar errores PHP"
+
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars"
+
+msgid "PHP Memory Limit"
+msgstr "Límite de memoria de PHP"
+
+msgid "PHP Post Max Size"
+msgstr "PHP Post Max Size"
+
+msgid "PHP Time Limit"
+msgstr "PHP Time Limit"
+
+msgid "PHP Version"
+msgstr "Versión PHP"
+
+msgid "Password"
+msgstr "Contraseña"
+
+msgid "Permalink Structure"
+msgstr "Estructura de Enlaces Permanentes"
+
+msgid "Please Wait"
+msgstr "Espere por favor"
+
+msgid "Posts Page"
+msgstr "Página de entradas"
+
+msgid "Redux Extensions"
+msgstr "Extensiones de Redux"
+
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+msgid "Redux Framework - Changelog"
+msgstr "Redux Framework - Informe de cambios"
+
+msgid "Redux Framework - Extensions"
+msgstr "Redux Framework - Extensiones"
+
+msgid "Redux Framework - Support"
+msgstr "Redux Framework - Soporte"
+
+msgid "Redux Framework - System Status"
+msgstr "Redux Framework - Estado del Sistema"
+
+msgid "Redux Framework Changelog"
+msgstr "Changelog de Redux Framework"
+
+msgid "Redux Framework Status"
+msgstr "Estado de Redux Framework"
+
+msgid "Redux Framework has an embedded demo."
+msgstr "Redux Framework tiene una demostración incorporada."
+
+msgid "Redux Generator"
+msgstr "Generador Redux"
+
+msgid "Redux Instance: "
+msgstr "Instancia Redux:"
+
+msgid "Redux Version"
+msgstr "Versión Redux"
+
+msgid ""
+"Redux is a simple, truly extensible options framework for WordPress themes "
+"and plugins."
+msgstr ""
+"Redux es un framework de opciones simple y realmente extensible para "
+"plantillas y plugins de WordPress."
+
+msgid "Regular"
+msgstr "Regular"
+
+msgid "Remove"
+msgstr "Quitar"
+
+msgid "Repo"
+msgstr "Repositorio"
+
+msgid "Reset All"
+msgstr "Restablecer Todo"
+
+msgid "Reset Section"
+msgstr "Restablecer Sección"
+
+msgid "Right"
+msgstr "Derecha"
+
+msgid "SUHOSIN Installed"
+msgstr "SUHOSIN Instalado"
+
+msgid "Save Changes"
+msgstr "Guardar Cambios"
+
+msgid "Section Defaults Restored!"
+msgstr "Restaurados todos los valores predeterminados de la sección!"
+
+msgid "Select Support Type"
+msgstr "Seleccionar Tipo de Soporte"
+
+msgid "Select Your Support Type"
+msgstr "Selecciona tu tipo de Soporte"
+
+msgid "Select an item"
+msgstr "Seleccionar un elemento"
+
+msgid "Server Environment"
+msgstr "Entorno del Servidor"
+
+msgid "Server Info"
+msgstr "Información del Servidor"
+
+msgid "Settings Imported!"
+msgstr "¡Ajustes Importados!"
+
+msgid "Settings Saved!"
+msgstr "¡Ajustes Guardados!"
+
+msgid "Settings have changed, you should save them!"
+msgstr "Los ajustes han cambiado, ¡debería guardarlos!"
+
+msgid "Show Object in Javascript Console Object"
+msgstr "Mostrar Objeto en la Consola de Objetos de Javascript"
+
+msgid "Site URL"
+msgstr "URL del sitio"
+
+msgid "Size"
+msgstr "Tamaño"
+
+msgid "Slide"
+msgstr "Deslizar"
+
+msgid "Standard Fonts"
+msgstr "Fuentes Estándar"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Style"
+msgstr "Estilo"
+
+msgid "Submit a Support Request"
+msgstr "Enviar Solicitud de Soporte"
+
+msgid "Subscribe"
+msgstr "Subscribete"
+
+msgid "Subsets"
+msgstr "Subconjuntos"
+
+msgid "Support"
+msgstr "Soporte"
+
+msgid "System Info"
+msgstr "Información del sistema"
+
+msgid "Team Redux"
+msgstr "Team Redux"
+
+msgid "Text Align"
+msgstr "Alineamiento del texto"
+
+msgid "Text Decoration"
+msgstr "Decoración del texto"
+
+msgid "Text Transform"
+msgstr "Transformar texto"
+
+msgid "The URL of your site's homepage."
+msgstr "La URL de la página de inicio de tu sitio."
+
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+"La cantidad de tiempo (en segundos) que tu sitio puede usar en una operación "
+"(para prevenir bloqueos en el servidor)."
+
+msgid "The default timezone for your server."
+msgstr "La Zona Horaria por defecto de tu servidor."
+
+msgid "The largest filesize that can be contained in one post."
+msgstr "El tamaño máximo de archivo que puede ser publicado en un post."
+
+msgid ""
+"The largest filesize that can be uploaded to your WordPress installation."
+msgstr ""
+"Tamaño máximo de archivo que puede subirse a tu instalación de WordPress."
+
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr "Cantidad de memoria (RAM) máxima que tu sitio puede usar cada vez."
+
+msgid "The people that develop Redux Framework"
+msgstr "La gente que desarrolla Redux Framework"
+
+msgid "The theme developers URL."
+msgstr "La URL del programador de la plantilla."
+
+msgid "The version of MySQL installed on your hosting server."
+msgstr "La versión de MySQL instalada en el servidor."
+
+msgid "The version of PHP installed on your hosting server."
+msgstr "La versión de PHP instalada en el servidor."
+
+msgid "The version of WordPress installed on your site."
+msgstr "La versión de WordPress instalada en tu sitio."
+
+msgid "Theme"
+msgstr "Tema"
+
+msgid "There was an error saving. Here is the result of your action:"
+msgstr "Ha habido un error al guardar. Este es el resultado de su acción:"
+
+msgid "This field cannot be empty. Please provide a value."
+msgstr "Este campo no puede estar vacío. Por favor, introduce un valor."
+
+msgid "This field must be a valid color value."
+msgstr "Este campo debe ser un valor de color válido."
+
+msgid "This field must be a valid date."
+msgstr "Este campo debe se una fecha válida."
+
+msgid "Title"
+msgstr "Título"
+
+msgid "To "
+msgstr "Para"
+
+msgid "Top"
+msgstr "Arriba"
+
+msgid "Transparent"
+msgstr "Transparente"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Unable to modify required files. Please ensure that"
+msgstr ""
+"Imposible modificar los archivos necesarios. Por favor asegurate de que"
+
+msgid "Units"
+msgstr "Unidades"
+
+msgid "Upload"
+msgstr "Subir"
+
+msgid "User"
+msgstr "Usuario"
+
+msgid "Username"
+msgstr "Usuario"
+
+msgid "Version"
+msgstr "Versión"
+
+msgid "Version %s"
+msgstr "Versión %s"
+
+msgid "View %s"
+msgstr "Ver %s"
+
+msgid "Visit plugin homepage"
+msgstr "Visitar la web del plugin"
+
+msgid "Visited"
+msgstr "Visitado"
+
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+"¡ATENCIÓN! Esto sobrescribirá todos los valores de las opciones existentes, "
+"¡proceda con precaución!"
+
+msgid "WP Debug Mode"
+msgstr "WP modo Debug"
+
+msgid "WP Memory Limit"
+msgstr "Límite de memoria de WP"
+
+msgid "WP Multisite"
+msgstr "WP Multisitio"
+
+msgid "WP Version"
+msgstr "Versión WP"
+
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+"¡Atención! Este panel de opciones no funcionará correctamente sin javascript"
+
+msgid "Welcome to Redux Framework"
+msgstr "Bienvenido a Redux Framework"
+
+msgid "Welcome to Redux Framework %s"
+msgstr "Bienvenido a Redux Framework %s"
+
+msgid "Welcome to the Redux Demo Panel"
+msgstr "¡Bienvenido al Panel de prueba de Redux!"
+
+msgid "What is Redux Framework?"
+msgstr "¿Qué es Redux Framework?"
+
+msgid "What type of user are you?"
+msgstr "¿Qué tipo de usuario eres?"
+
+msgid "What's New"
+msgstr "¿Que hay de nuevo?"
+
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "Si tienes o no WordPress Multisitio activado."
+
+msgid "Width"
+msgstr "Anchura"
+
+msgid "Word Spacing"
+msgstr "Espacio entre palabras"
+
+msgid "WordPress Environment"
+msgstr "Entorno WordPress"
+
+msgid "Working..."
+msgstr "Procesando..."
+
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tienes suficientes permisos para acceder a esta página"
+
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr "Tiene cambios sin guardar. ¿Le gustaría guardarlos ahora?"
+
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr "Tiene cambios sin guardar. ¿Le gustaría guardarlos ahora?"
+
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+"No debe introducir HTML en este campo, todas las etiquetas HTML se han "
+"eliminado."
+
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+"No debe introducir ningún carácter especial en este campo, se han eliminado "
+"todos los caracteres especiales."
+
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+"Debe proporcionar una lista de valores numéricos separados por comas para "
+"esta opción."
+
+msgid "You must provide a numerical value for this option."
+msgstr "Debe proporcionar un valor numérico para esta opción."
+
+msgid "You must provide a valid URL for this option."
+msgstr "Debe proporcionar una dirección URL válida para esta opción."
+
+msgid "You must provide a valid email for this option."
+msgstr "Debe proporcionar un correo electrónico válido para esta opción."
+
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+"Sus opciones actuales serán reemplazadas con los valores predefinidos de "
+"este archivo. ¿Desea continuar?"
+
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+"Sus opciones actuales serán reemplazadas con los valores predefinidos de "
+"este archivo. ¿Desea continuar?"
+
+msgid "Your panel has no fields. Nothing to save."
+msgstr "Tu panel no tiene campos. Nada que guardar."
+
+msgctxt "by author"
+msgid "by %s"
+msgstr "por %s"
+
+msgid "clicking"
+msgstr "pulsando"
+
+msgid "donation"
+msgstr "Donación"
+
+msgid "error(s) were found!"
+msgstr "¡Se encontraron errores!"
+
+msgid "extensions directory"
+msgstr "Directorio de extensiones"
+
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+"tiene los permisos correctos de lectura/escritura o introduce la información "
+"del FTP a continuación."
+
+msgid "http://reduxframework.com"
+msgstr "http://reduxframework.com"
+
+msgid "http://wordpress.org/plugins/redux-framework"
+msgstr "http://wordpress.org/plugins/redux-framework"
+
+msgid "is available"
+msgstr "está disponible"
+
+msgid "leave us a favorable review on WordPress.org"
+msgstr "déjanos una review favorable en WordPress.org"
+
+msgid "moving the mouse over"
+msgstr "mover el ratón por encima"
+
+msgid "our documentation"
+msgstr "Nuestra documentación"
+
+msgid "warning(s) were found!"
+msgstr "¿Se encontraron advertencias!"
