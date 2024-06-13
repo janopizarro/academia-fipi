@@ -1,0 +1,158 @@
+.resultados{
+    margin-top: 20px;
+    max-width: 1200px;
+}
+
+.items-cabecera{
+    display: flex;
+}
+
+.items-cabecera p{
+    font-weight: bold;
+}
+
+.items-cabecera p:nth-child(1){
+    width: 80px;
+    padding-left: 11px;
+}
+.items-cabecera p:nth-child(2){
+    width: 344px;
+    padding-left: 20px;
+}
+
+.items-cabecera p:nth-child(3){
+    width: 68px;
+}
+
+.items-cabecera p:nth-child(4){
+    width: 281px;
+}
+
+.items-cabecera p:nth-child(5){
+    width: 77px;
+}
+
+.items-cabecera p:nth-child(6){
+    width: 66px;
+}
+
+.item-resultado{
+    display: flex;
+    background: #ffffff;
+    border-radius: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    margin-bottom: 10px;
+    box-shadow: 0px 0px 9px 0px #dadada;
+}
+
+.item-resultado p{
+    margin: 0px;
+}
+
+.item-resultado ul{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+}
+
+.item-resultado ul li{
+    margin-bottom: 0px;
+    margin-right: 5px;
+}
+
+.user_registered{
+    width: 100px;
+    min-width: 100px;
+}
+
+.personal{
+    width: 340px;
+    min-width: 340px;
+}
+
+.personal small{
+    display: flex;
+    align-items: center;
+}
+
+.personal small img{
+    margin-right: 10px;
+}
+
+.intro{
+    width: 65px;
+    min-width: 65px;
+    display: flex;
+    align-items: center;
+}
+
+.status{
+    width: 300px;
+    min-width: 300px;
+    display: flex;
+    align-items: center;
+}
+
+.finish{
+    width: 72px;
+    min-width: 72px;
+    display: flex;
+    align-items: center;
+}
+
+.form{
+    width: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.generate{
+    width: 98px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 3px;
+}
+
+.generate button{
+    background: #c22828;
+    border: none;
+    font-size: 9px;
+    font-weight: bold;
+    padding: 4px 7px;
+    border-radius: 6px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+}
+
+.generate small{
+    font-size: 7px;
+    font-weight: bold;
+}
+
+.generate button img{
+    width: 13px;
+    margin-left: 4px;
+}
+
+.generate button:hover{
+    opacity: 0.8;
+}
+
+.info{
+    padding: 1px 5px;
+    background: #dffeff;
+    border: 1px solid #94d1cc;
+    max-width: 788px;
+}
+
+.info p{
+    margin: 8px;
+    padding: 0px;
+    color: #116d9e;
+}

@@ -1,0 +1,28 @@
+body{
+	background-image: url("images/back-fipi.jpg");
+	background-size: cover;
+}
+.mensaje{
+    padding: 10px;
+    background: #95b54b;
+    text-align: center;
+    border: none;
+    font-size: 18px;
+    color: yellow;
+    text-shadow: 0 0 3px #00000061;
+    margin-bottom: 15px;
+}
+
+.mensaje--alerta{
+    padding: 10px;
+    background: #d8cf66;
+    text-align: center;
+    border: none;
+    font-size: 18px;
+    color: rgb(52, 52, 52);
+    margin-bottom: 15px;
+}
+
+.hide{
+    display: none;
+}
